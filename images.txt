@@ -1,4 +1,2 @@
-nginx:1.26.1-alpine3.19-slim
-node:lts-slim
-tdengine:3.2.2.0
-nacos-server:2.0.3
+node:22-alpine3.20
+python:3.11-slim-bookworm
