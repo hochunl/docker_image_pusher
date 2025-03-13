@@ -1,1 +1,4 @@
 kenneth850511/llamafactory
+okapi0129/virtualwife-chatbot
+okapi0129/virtualwife-chatvrm
+okapi0129/virtualwife-gateway
