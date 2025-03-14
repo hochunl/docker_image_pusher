@@ -1,2 +1,4 @@
-heartexlabs/label-studio:latest
-pgautoupgrade/pgautoupgrade:13-alpine
+node:18
+python:3.12-slim
+frontend-builder
+venv-builder
