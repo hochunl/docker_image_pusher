@@ -1,2 +1,1 @@
-node:18
-python:3.12-slim
+nvcr.io/nvidia/pytorch:24.02-py3
