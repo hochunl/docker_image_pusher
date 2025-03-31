@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.02-py3
+minio/minio:RELEASE.2023-03-24T21-41-23Z
