@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-03-24T21-41-23Z
+bellsoft/liberica-openjdk-debian:17.0.11-cds
